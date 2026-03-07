@@ -38,19 +38,7 @@ A versão pública da ferramenta está disponível em:
 
 <div align="center">
   <a href="https://www.linkedin.com/posts/jesse-oliveira-de-castro-88421536_productmanagement-dataproducts-ai-ugcPost-7433192533188374528-9CxU">
-    <img src="https://img.shields.io/badge/ASSISTIR%20TREINAMENTO-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Training">
-  </a>
-</div>
-
----
-
-# 🎥 3) Treinamento Oficial — Como Usar o RICE *(Conteúdo público do LinkedIn)*
-
-<div align="center">
-  <a href="https://www.linkedin.com/posts/jesse-oliveira-de-castro-88421536_productmanagement-dataproducts-ai-ugcPost-7433192533188374528-9CxU">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="600px" alt="Clique para assistir no LinkedIn">
-    <br>
-    <sub>Clique na imagem acima para abrir o vídeo no LinkedIn</sub>
+    <img src="https://i.postimg.cc/wMWygY4h/Tumb.png" alt="Capa do Treinamento de RICE - Clique para Assistir" width="700">
   </a>
 </div>
 
