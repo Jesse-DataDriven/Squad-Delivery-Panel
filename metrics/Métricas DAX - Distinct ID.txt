@@ -1,0 +1,34 @@
+%concluído = 
+Var Id_distinto = 
+DISTINCTCOUNT(
+    'Work Items - All history by month'[Work Item Id]
+    )
+Var String_Done = CALCULATE(
+    [Id distinto],
+    FILTER(
+        'Work Items - All history by month',
+        CONTAINSSTRING(
+            'Work Items - All history by month'[ID&Status],"Done"
+            )
+            )
+            )
+var string_cancelado = CALCULATE(
+    [Id distinto],
+    FILTER(
+        'Work Items - All history by month',
+        CONTAINSSTRING(
+            'Work Items - All history by month'[ID&Status],"Canceled"
+            )
+            )
+            )
+var string_prioriza = CALCULATE(
+    [Id distinto],
+    FILTER(
+        'Work Items - All history by month',
+        CONTAINSSTRING(
+            'Work Items - All history by month'[ID&Status],"In-Prioritization"
+            )
+            )
+            )
+RETURN
+String_Done/Id_distinto
