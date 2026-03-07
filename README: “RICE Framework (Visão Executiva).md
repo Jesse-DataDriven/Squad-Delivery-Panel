@@ -34,11 +34,12 @@ A versão pública da ferramenta está disponível em:
 
 ---
 
-## 🎥 3) Treinamento Oficial — Como Usar o RICE  
-*(Conteúdo público no LinkedIn)*
+# 🎥 3) Treinamento Oficial — Como Usar o RICE *(Conteúdo público do LinkedIn)*
 
-[![Treinamento RICE no LinkedIn](https://i.postimg.cc/T3hYTkqB/RICE.gif)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7433192533188374528)
-
+<div align="center">
+  <a href="https://www.linkedin.com/posts/activity-7433192533188374528">
+    <img src="https://img.shields.io/badge/Assista%20no-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Assista no LinkedIn">
+  </a>
 </div>
 
 ---
