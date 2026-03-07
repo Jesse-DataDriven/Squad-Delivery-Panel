@@ -20,8 +20,8 @@ Somente **imagens estáticas ou animações ilustrativas** e **exemplos visuais 
 
 ## 🖥️ Telas do Frontend (OnePage)
 
-### **1) Contexto de filtro, resultados ponderados, PNL dos motivos e cascateamento**
-Demonstração da primeira parte da experiência analítica, com filtros dinâmicos, visão ponderada dos resultados e análise de motivos via NLP.
+### **1) Contexto de filtro, resultados ponderados por Squad, Esforço das travas e cascateamento**
+Demonstração da experiência de navegação do stakeholder (user), com filtros dinâmicos, visão ponderada dos resultados e análise de motivos de desenvolvimento e produto.
 
 ![Página gerencia: Contexto de filtro por Sprint, Projeto.](https://i.postimg.cc/Xv6q6hHm/Parte_1_filtro.gif)
 
