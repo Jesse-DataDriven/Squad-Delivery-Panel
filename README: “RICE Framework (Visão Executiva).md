@@ -34,12 +34,10 @@ A versão pública da ferramenta está disponível em:
 
 ---
 
-# 🎥 3) Treinamento Oficial — Como Usar o RICE  
-*(Conteúdo público do LinkedIn)*
+## 🎥 3) Treinamento Oficial — Como Usar o RICE  
+*(Conteúdo público no LinkedIn)*
 
-<div align="center">
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7433192533188374528?collapsed=1" height="540" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+[![Treinamento RICE no LinkedIn](https://i.postimg.cc/T3hYTkqB/RICE.gif)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7433192533188374528)
 
 </div>
 
