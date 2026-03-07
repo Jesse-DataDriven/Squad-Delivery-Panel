@@ -44,6 +44,18 @@ A versão pública da ferramenta está disponível em:
 
 ---
 
+# 🎥 3) Treinamento Oficial — Como Usar o RICE *(Conteúdo público do LinkedIn)*
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/jesse-oliveira-de-castro-88421536_productmanagement-dataproducts-ai-ugcPost-7433192533188374528-9CxU">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="600px" alt="Clique para assistir no LinkedIn">
+    <br>
+    <sub>Clique na imagem acima para abrir o vídeo no LinkedIn</sub>
+  </a>
+</div>
+
+---
+
 # 📌 RICE Framework — Visão Executiva
 
 A priorização deste projeto segue o framework **RICE (Reach, Impact, Confidence, Effort)**.  
