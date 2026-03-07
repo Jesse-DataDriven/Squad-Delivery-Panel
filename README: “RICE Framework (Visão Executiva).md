@@ -1,7 +1,7 @@
 # 🧠 RICE Framework — Prioridade Estratégica do Produto
 
 > **Este projeto utiliza o framework RICE para priorização de iniciativas do Squad.**  
-> A matriz completa foi desenvolvida em um artefato proprietário e **não está disponível no repositório**, mas a visão executiva e os recursos públicos estão destacados abaixo.
+> A matriz completa foi desenvolvida em um artefato proprietário e **não está disponível no repositório**, mas foi desenvolvido para uso livre e a visão executiva e os recursos públicos estão destacados abaixo.
 
 ---
 
